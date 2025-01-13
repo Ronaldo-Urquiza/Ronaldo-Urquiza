@@ -18,7 +18,6 @@
 </div>
 
 <br>
-
   
   ### Redes & Contato:
   
@@ -33,7 +32,7 @@
    
 
 <br>
-
+<br>
 
 
 ### Linguagens & ferramentas:
