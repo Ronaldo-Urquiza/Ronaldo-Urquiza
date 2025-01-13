@@ -13,9 +13,10 @@
 <div align="center">
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ronaldo-Urquiza&theme=hacker&locale=pt_BR&card_width=800)](https://git.io/streak-stats)
-    
-  <br>
- 
+
+  
+  ### Redes:
+  
   <a href="https://www.youtube.com/@ItIsRonTime" target="_blank">
   <img align="center" height="60" width="60" src="https://github.com/user-attachments/assets/8811c6da-c078-4bc4-bec2-04bac6e11209"></a>
   
@@ -31,24 +32,27 @@
 <br>
 
 
-### Main skills:
+
+### Linguagens e ferramentas:
 <div align="center">
   <img height="50" src="https://github.com/user-attachments/assets/633e267f-4623-4b99-9d07-b5105ee2008f"/>&nbsp;
   <img height="50" src="https://github.com/user-attachments/assets/2ae83146-b652-423f-8d81-afc7d91811c4"/>&nbsp;
+  <br>
   <img height="50" src="https://github.com/user-attachments/assets/e62a5862-6c0a-450d-8e3e-c5c1be370e8f"/>&nbsp;
   <img height="50" src="https://github.com/user-attachments/assets/dc9da170-e608-4d70-82f9-91809b8a8a45"/>&nbsp;
   <img height="50" src="https://github.com/user-attachments/assets/524d5bbf-d4f2-47d4-a3eb-8d4e11d79322"/>&nbsp;
 </div>
 
 <br>
-<br>
 
+<hr>
 
 <div align="center">
 
 <p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FRonaldo-Urquiza&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=Visitantes%3A+&ta=" alt="visits"></p> 
-<br>
 </div>
+
+<hr>
 
 
 <img width=100% src="https://github.com/user-attachments/assets/ad6e0c72-7759-4fde-924c-1bb162625419"/>
