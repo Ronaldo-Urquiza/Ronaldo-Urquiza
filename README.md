@@ -5,14 +5,17 @@
 <br>
 <br>
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&font=Fira+Code&duration=2200&color=2CF700&multiline=true&width=500&height=280&lines=Ol%C3%A1+mundo!+Meu+nome+%C3%A9+Ronaldo+Urquiza.;Como+voc%C3%AA+vai%3F+%C3%89+um+prazer+te+conhecer!;+Sou+estudante+de+Engenharia+de+Computa%C3%A7%C3%A3o.;+;Meu+foco+atual+%C3%A9+como+trabalhar+com;+sistemas+embarcados+alinhados+com;machine+learning.;+;Bem-vindo+ao+meu+reposit%C3%B3rio%2C;sinta-se+%C3%A0+vontade!)](https://git.io/typing-svg)
 
+<hr>
 
+<br>
+<br>
 
 <div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ronaldo-Urquiza&theme=hacker&locale=pt_BR&card_width=800)](https://git.io/streak-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=Ronaldo-Urquiza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ronaldo-Urquiza&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
 
   
   ### Redes & Contato:
@@ -26,15 +29,12 @@
   <a href="https://www.linkedin.com/in/ronaldo-urquiza-2b6896250/" target="_blank">
   <img align="center" height="60" width="60" src="https://github.com/user-attachments/assets/e48d6294-7d11-4fce-afa1-f1ecf539bb0d"></a> 
    
-</div>
-
 
 <br>
 
 
 
 ### Linguagens & ferramentas:
-<div align="center">
   <img height="50" src="https://github.com/user-attachments/assets/7b2fe8c5-f08c-4880-9bb5-321b74385c36"/>&nbsp;
   <img height="50" src="https://github.com/user-attachments/assets/633e267f-4623-4b99-9d07-b5105ee2008f"/>&nbsp;
   <img height="50" src="https://github.com/user-attachments/assets/2ae83146-b652-423f-8d81-afc7d91811c4"/>&nbsp;
