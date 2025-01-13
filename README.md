@@ -35,6 +35,7 @@
 
 ### Linguagens & ferramentas:
 <div align="center">
+  <img height="50" src="https://github.com/user-attachments/assets/7b2fe8c5-f08c-4880-9bb5-321b74385c36"/>&nbsp;
   <img height="50" src="https://github.com/user-attachments/assets/633e267f-4623-4b99-9d07-b5105ee2008f"/>&nbsp;
   <img height="50" src="https://github.com/user-attachments/assets/2ae83146-b652-423f-8d81-afc7d91811c4"/>&nbsp;
   <br>
