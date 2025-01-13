@@ -15,7 +15,7 @@
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ronaldo-Urquiza&theme=hacker&locale=pt_BR&card_width=800)](https://git.io/streak-stats)
 
   
-  ### Redes:
+  ### Redes & Contato:
   
   <a href="https://www.youtube.com/@ItIsRonTime" target="_blank">
   <img align="center" height="60" width="60" src="https://github.com/user-attachments/assets/8811c6da-c078-4bc4-bec2-04bac6e11209"></a>
@@ -33,7 +33,7 @@
 
 
 
-### Linguagens e ferramentas:
+### Linguagens & ferramentas:
 <div align="center">
   <img height="50" src="https://github.com/user-attachments/assets/633e267f-4623-4b99-9d07-b5105ee2008f"/>&nbsp;
   <img height="50" src="https://github.com/user-attachments/assets/2ae83146-b652-423f-8d81-afc7d91811c4"/>&nbsp;
