@@ -8,15 +8,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&font=Fira+Code&duration=2200&color=2CF700&multiline=true&width=500&height=280&lines=Ol%C3%A1+mundo!+Meu+nome+%C3%A9+Ronaldo+Urquiza.;Como+voc%C3%AA+vai%3F+%C3%89+um+prazer+te+conhecer!;+Sou+estudante+de+Engenharia+de+Computa%C3%A7%C3%A3o.;+;Meu+foco+atual+%C3%A9+como+trabalhar+com;robótica;+;Bem-vindo+ao+meu+reposit%C3%B3rio%2C;sinta-se+%C3%A0+vontade!)](https://git.io/typing-svg)
 
 <hr>
-
-<br>
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ronaldo-Urquiza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ronaldo-Urquiza&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
 <br>
   
   ### Redes & Contato:
