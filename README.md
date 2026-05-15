@@ -5,7 +5,7 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&font=Fira+Code&duration=2200&color=2CF700&multiline=true&width=500&height=280&lines=Ol%C3%A1+mundo!+Meu+nome+%C3%A9+Ronaldo+Urquiza.;Como+voc%C3%AA+vai%3F+%C3%89+um+prazer+te+conhecer!;+Sou+estudante+de+Engenharia+de+Computa%C3%A7%C3%A3o.;+;Meu+foco+atual+%C3%A9+como+trabalhar+com;+sistemas+embarcados+alinhados+com;machine+learning.;+;Bem-vindo+ao+meu+reposit%C3%B3rio%2C;sinta-se+%C3%A0+vontade!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&font=Fira+Code&duration=2200&color=2CF700&multiline=true&width=500&height=280&lines=Ol%C3%A1+mundo!+Meu+nome+%C3%A9+Ronaldo+Urquiza.;Como+voc%C3%AA+vai%3F+%C3%89+um+prazer+te+conhecer!;+Sou+estudante+de+Engenharia+de+Computa%C3%A7%C3%A3o.;+;Meu+foco+atual+%C3%A9+como+trabalhar+com;robótica;+;Bem-vindo+ao+meu+reposit%C3%B3rio%2C;sinta-se+%C3%A0+vontade!)](https://git.io/typing-svg)
 
 <hr>
 
